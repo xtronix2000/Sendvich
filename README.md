@@ -1,4 +1,4 @@
-# Sendvich
+# Sendwich
 Minimal GET-only HTTP server with basic auth
 
 ## Описание проекта
