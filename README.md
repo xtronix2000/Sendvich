@@ -15,7 +15,7 @@ python3 server.py [порт]
 ```
 <img width="383" height="103" alt="{C74279FB-264D-4F8F-AFDD-5B7F1A546EA2}" src="https://github.com/user-attachments/assets/36fc2b1d-2313-4678-a116-4f94389ebd04" />
 
-<img width="323" height="274" alt="{4A262775-7C39-4266-BD36-7FDE4F33D072}" src="https://github.com/user-attachments/assets/8cd60309-7d43-4813-8325-5e1aca861127" />
+<img width="302" height="184" alt="{FE642E59-BDD9-4BB0-BF42-BE5BAFE5B220}" src="https://github.com/user-attachments/assets/504cbb78-04ab-4ea1-9b94-c5b03076e016" />
 
 По умолчанию порт **17032**
 
