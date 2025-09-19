@@ -13,6 +13,9 @@ Minimal GET-only HTTP server with basic auth
 ```bash
 python3 server.py [порт]
 ```
+<img width="383" height="103" alt="{C74279FB-264D-4F8F-AFDD-5B7F1A546EA2}" src="https://github.com/user-attachments/assets/36fc2b1d-2313-4678-a116-4f94389ebd04" />
+<img width="323" height="274" alt="{4A262775-7C39-4266-BD36-7FDE4F33D072}" src="https://github.com/user-attachments/assets/8cd60309-7d43-4813-8325-5e1aca861127" />
+
 По умолчанию порт **17032**
 
 После запуска сервер доступен через браузер. IP и порт зависят от машины и аргумента запуска, поэтому используйте их напрямую (например, http://127.0.0.1:17032/)
